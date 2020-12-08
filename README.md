@@ -1,2 +1,2 @@
 # django-react-to-do-app
-Django And React Integration Tutorial
+Dajngo and React todo app integration
